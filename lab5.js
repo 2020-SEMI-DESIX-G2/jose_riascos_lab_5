@@ -5,19 +5,19 @@ var  num1 = 6 ;
 var  num2 = 2 ;
 
 function  sumar()  {
-    console.log (  ( num1 + num2 ) + "sumar con var" );
+    console.log (  ( num1 + num2 ) + " sumar con var" );
 }
 
 function  restar()  {
-    console.log (  ( num1 - num2 ) +"restar con var" ) ;
+    console.log (  ( num1 - num2 ) +" restar con var" ) ;
 }
 
 function  multiplicar ()  {
-    console.log (  ( num1 * num2 ) + "multiplicar con var"  ) ;
+    console.log (  ( num1 * num2 ) + " multiplicar con var"  ) ;
 }
 
 function  dividir()  {
-    console.log (  ( num1 / num2 ) + "dividir con var"  ) ;
+    console.log (  ( num1 / num2 ) + " dividir con var"  ) ;
 }
 
 sumar() ;
